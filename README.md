@@ -1,8 +1,25 @@
-### Mobile Developer 💻 Creating Mobile Markets at 365 Retail Markets
+### Mobile Software Developer 👨‍💻
+
+Creating POS and Mobile solutions at 365 Retail Markets.
 
 <a href="https://365retailmarkets.com">
-  <img src="https://github.com/McAJBen/mcajben/assets/16395230/9c933bc1-0b34-4a38-86b0-79155df08f96" width="64px" height="64px" alt="365 Retail Markets" />
+  <img src="assets/365RetailMarkets.jpeg" alt="365 Retail Markets" width="64px" height="64px" />
 </a>
-<a href="https://www.linkedin.com/in/mcajben/">
-  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="64px" height="64px" alt="Linkedin" />
+<a href="https://linkedin.com/in/mcajben/">
+  <img src="assets/LinkedIn.svg" width="64px" height="64px" alt="LinkedIn" />
 </a>
+<a href="https://github.com/McAJBen/TriangleConverter">
+  <img src="assets/mona-lisa.gif" alt="MonaLisa" width="64px" height="64px">
+</a>
+
+Developer of:
+
+- 💳 [PicoMarket POS Solution](https://365retailmarkets.com/picomarket)
+- 📱 [365Pay Application](https://365retailmarkets.com/mobile)
+- 💻 [DungeonBoard](https://github.com/McAJBen/DungeonBoard)
+
+Using Languages:
+
+- TypeScript / JavaScript
+- Kotlin / Java
+- Rust
